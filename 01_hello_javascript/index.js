@@ -1,0 +1,1 @@
+document.getElementById("greet").innerHTML="Hey! Hi man this is the first day in the 100 days of js challenge";
