@@ -1,2 +1,2 @@
 # 100_days_of_JavaScript
-pure java script coding 
+java script coding for 100 days
